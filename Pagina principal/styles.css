@@ -26,13 +26,13 @@ body {
 }
 
 .span-1 {
-    color: rgb(12, 51, 23);
+    color: rgb(255, 255, 255);
     font-size: 1.5rem;
     margin-left: 15px;
 }
 
 .span-2 {
-    color: rgb(12, 51, 23);
+    color: rgb(255, 255, 255);
     font-size: 1.5rem;
 }
 
